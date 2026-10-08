@@ -1,2 +1,6 @@
 fastapi
 uvicorn[standard]
+google-cloud-firestore
+google-auth
+pydantic
+python-multipart
